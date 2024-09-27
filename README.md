@@ -94,15 +94,14 @@ The fundamental mechanism of this system is to detect and classify incoming exte
 
 
 <br><br>
+
 <p align="center">
-![collage](https://github.com/user-attachments/assets/4e8bf86d-1487-48c9-a7fb-5f3188669bb9)
-
-
-<br>
-
-Figure 8 CNN Model Results, Test Set
-
+    <img src="https://github.com/user-attachments/assets/4e8bf86d-1487-48c9-a7fb-5f3188669bb9" alt="collage">
+    <br>
+    Figure 8 CNN Model Results, Test Set
 </p>
+
+
 
 <br><br>
 
