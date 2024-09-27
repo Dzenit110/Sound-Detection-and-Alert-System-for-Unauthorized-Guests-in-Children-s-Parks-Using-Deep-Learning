@@ -38,57 +38,60 @@ The fundamental mechanism of this system is to detect and classify incoming exte
 
 ## User Interface Examples
 
-<img width="370" alt="Screenshot_1" src="https://github.com/user-attachments/assets/80d28b20-6ea3-4a97-af2c-0865bc14bc07">
-
-
-<br>
-Figure 1 Jupyter Notebook Project Start
-
-<br><br>
-
-<img width="377" alt="Screenshot_2" src="https://github.com/user-attachments/assets/6665d73b-082f-4a0a-9c77-1e204f0dc537">
-
-
-<br>
-Figure 2 Python Libraries Used in the Project
-<br><br>
-
-<img width="358" alt="Screenshot_3" src="https://github.com/user-attachments/assets/10f783d9-574e-492f-b9b4-86540a41f533">
-
-<br>
-Figure 3 Displays mono audio data in Librosa (Jupyter)
-<br><br>
-
-<img width="459" alt="Screenshot_4" src="https://github.com/user-attachments/assets/b016e6c6-1376-47dc-8a81-f5414c43712f">
-
-
-<br>
-Figure 4 Extracting features from audio files (Jupyter)
-
-<br><br>
-
-<img width="410" alt="Screenshot_5" src="https://github.com/user-attachments/assets/9c4b5fd3-c986-4ba5-9553-fedeed2ea31c">
-
-
-<br>
-Figure 5 One-Hot  Encoding  Methods Results
-
-<br><br>
-
-<img width="276" alt="Screenshot_6" src="https://github.com/user-attachments/assets/849de368-35b2-4ee0-a0ff-58daa2114c00">
-
-
-<br>
-Figure 6 CNN Model Results
-
-<br><br>
-
-<img width="407" alt="Screenshot_7" src="https://github.com/user-attachments/assets/a53486ee-056f-4af4-9901-85078b57aedf">
-
+<p align="center">
+    <img width="370" alt="Screenshot_1" src="https://github.com/user-attachments/assets/80d28b20-6ea3-4a97-af2c-0865bc14bc07">
+    <br>
+    Figure 1 Jupyter Notebook Project Start
+</p>
 
 <br>
 
-Figure 7 CNN Trained Model Results
+<p align="center">
+    <img width="370" alt="Screenshot_2" src="https://github.com/user-attachments/assets/6665d73b-082f-4a0a-9c77-1e204f0dc537">
+    <br>
+    Figure 2 Python Libraries Used in the Project
+</p>
+
+<br>
+
+<p align="center">
+    <img width="370" alt="Screenshot_3" src="https://github.com/user-attachments/assets/10f783d9-574e-492f-b9b4-86540a41f533">
+    <br>
+    Figure 3 Displays mono audio data in Librosa (Jupyter)
+</p>
+
+<br>
+
+<p align="center">
+    <img width="370" alt="Screenshot_4" src="https://github.com/user-attachments/assets/b016e6c6-1376-47dc-8a81-f5414c43712f">
+    <br>
+    Figure 4 Extracting features from audio files (Jupyter)
+</p>
+
+<br>
+
+<p align="center">
+    <img width="370" alt="Screenshot_5" src="https://github.com/user-attachments/assets/9c4b5fd3-c986-4ba5-9553-fedeed2ea31c">
+    <br>
+    Figure 5 One-Hot Encoding Methods Results
+</p>
+
+<br>
+
+<p align="center">
+    <img width="370" alt="Screenshot_6" src="https://github.com/user-attachments/assets/849de368-35b2-4ee0-a0ff-58daa2114c00">
+    <br>
+    Figure 6 CNN Model Results
+</p>
+
+<br>
+
+<p align="center">
+    <img width="370" alt="Screenshot_7" src="https://github.com/user-attachments/assets/a53486ee-056f-4af4-9901-85078b57aedf">
+    <br>
+    Figure 7 CNN Trained Model Results
+</p>
+
 
 <br><br>
 
