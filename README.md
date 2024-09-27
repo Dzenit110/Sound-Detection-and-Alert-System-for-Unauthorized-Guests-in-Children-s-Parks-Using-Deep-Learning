@@ -94,7 +94,7 @@ The fundamental mechanism of this system is to detect and classify incoming exte
 
 
 <br><br>
-
+<p align="center">
 ![collage](https://github.com/user-attachments/assets/4e8bf86d-1487-48c9-a7fb-5f3188669bb9)
 
 
@@ -102,15 +102,22 @@ The fundamental mechanism of this system is to detect and classify incoming exte
 
 Figure 8 CNN Model Results, Test Set
 
+</p>
+
 <br><br>
+
+<p align="center">
+
 
 <img width="400" alt="sonn" src="https://github.com/user-attachments/assets/6431c92c-0f15-4474-b7f8-2637bbb02a24">
 
 
 <br>
-<p align="center">
+
 Figure 9 CNN Model, Test 2 - Not a Child Sound
 </p>
+
+
 ## 🧰 Languages & Tools 
 
 <div style="display: inline;">
