@@ -112,6 +112,8 @@ The fundamental mechanism of this system is to detect and classify incoming exte
     Figure 9 CNN Model, Test 2 - Not a Child Sound
 </p>
 
+<br>
+
 ## 🧰 Languages & Tools 
 
 <div style="display: inline;">
