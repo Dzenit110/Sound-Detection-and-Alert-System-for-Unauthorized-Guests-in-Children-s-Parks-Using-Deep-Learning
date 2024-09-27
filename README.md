@@ -115,7 +115,7 @@ The fundamental mechanism of this system is to detect and classify incoming exte
 ## 🧰 Languages & Tools 
 
 <div style="display: inline;">
-    <img src="https://skillicons.dev/icons?i=python,anaconda,pandas" style="margin-right: 10px;" />
+    <img src="https://skillicons.dev/icons?i=python,anaconda" style="margin-right: 10px;" />
     <img src="https://github.com/user-attachments/assets/2f671e98-5ab2-48f6-afbf-652af748ed8e" width="50" height="60" &nbsp; &nbsp;/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"> &nbsp; &nbsp;
     <img src="https://github.com/user-attachments/assets/2296d705-347b-4bd2-adac-1db552f74d70" width="70" height="70" alt="download"> &nbsp; &nbsp;
