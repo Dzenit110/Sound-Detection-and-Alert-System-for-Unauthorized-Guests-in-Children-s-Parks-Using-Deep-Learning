@@ -105,17 +105,12 @@ The fundamental mechanism of this system is to detect and classify incoming exte
 
 <br><br>
 
+
 <p align="center">
-
-
-<img width="400" alt="sonn" src="https://github.com/user-attachments/assets/6431c92c-0f15-4474-b7f8-2637bbb02a24">
+    <img width="400" alt="sonn" src="https://github.com/user-attachments/assets/6431c92c-0f15-4474-b7f8-2637bbb02a24">
+    <br>
+    Figure 9 CNN Model, Test 2 - Not a Child Sound
 </p>
-<p align="center">
-<br>
-
-Figure 9 CNN Model, Test 2 - Not a Child Sound
-</p>
-
 
 ## 🧰 Languages & Tools 
 
