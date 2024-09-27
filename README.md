@@ -93,7 +93,7 @@ The fundamental mechanism of this system is to detect and classify incoming exte
 </p>
 
 
-<br><br>
+<br>
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/4e8bf86d-1487-48c9-a7fb-5f3188669bb9" alt="collage">
