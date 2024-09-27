@@ -115,10 +115,11 @@ The fundamental mechanism of this system is to detect and classify incoming exte
 ## 🧰 Languages & Tools 
 
 <div style="display: inline;">
-    <img src="https://skillicons.dev/icons?i=cpp,html,css,vscode,heroku,javascript,php,arduino,mysql" style="margin-right: 10px;" />
+    <img src="https://skillicons.dev/icons?i=python,anaconda" style="margin-right: 10px;" />
     <img src="https://github.com/user-attachments/assets/2f671e98-5ab2-48f6-afbf-652af748ed8e" width="50" height="60" &nbsp; &nbsp;/>
-    <img src="https://github.com/user-attachments/assets/1d95ddfa-47ad-4179-877b-35feeb152966" width="65" height="65" &nbsp; &nbsp;/>
-    <img src="https://github.com/user-attachments/assets/41ba7739-e0a3-4429-b501-e24b0d584e85" width="65" height="65"  &nbsp; &nbsp;/>
-    <img src="https://github.com/user-attachments/assets/c53560da-cbab-4f95-89c7-f80b95beca2c" width="65" height="65"  &nbsp; &nbsp;/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"> &nbsp; &nbsp;
+    <img src="https://github.com/user-attachments/assets/2296d705-347b-4bd2-adac-1db552f74d70" width="70" height="70" alt="download"> &nbsp; &nbsp;
+    <img src="https://github.com/user-attachments/assets/9b8017e6-752a-4d3a-bf56-22bf1ceb0129" width="75" height="75" alt="download"> &nbsp; &nbsp;
+
 </div>
 
