@@ -25,6 +25,8 @@ Sound Detection and Alert System for Unauthorized Visitors in Children's Parks u
 - Jupyter Notebook
 
 
+
+
 # Description
 
 In our project, the method is particularly important for notifying security personnel, teachers, and caregivers with alerts based on news and sound when there are unauthorized situations, especially in nurseries and areas where children are playing, involving adult human voices and animal sounds. Deep Learning, more specifically machine learning, develops numerous approaches to solve artificial intelligence problems. 
@@ -34,6 +36,19 @@ First, we plan to use a free and open-source distribution that simplifies packag
 Before classification, the Librosa library is utilized to extract features from audio files. This Python library enables the extraction of features (such as MFCC - Mel-frequency cepstrum) from audio files. The feature extraction process converts each audio file into a series of numbers, making it suitable for use with machine learning algorithms. After extracting the features of the audio files, they are transferred to an array, preparing them for the model we will use. The dataset we use in our project is then split into training and testing datasets. Furthermore, the identification of different frequencies within audio signals is performed quickly and easily using DFT (Discrete Fourier Transform) and several mathematical algorithms through a Python library. 
 
 The fundamental mechanism of this system is to detect and classify incoming external sounds and provide timely message alerts as needed. The proposed method aims to classify and issue alerts after sound detection using deep learning algorithms.
+
+This project focuses on utilizing deep learning techniques to classify audio signals. The system extracts key features from audio files using **MFCC** and employs a **CNN** for classification. The final step involves using the trained model to predict the class of an audio file and trigger an alert when necessary.
+
+The project is structured as follows:
+1. **Data Preparation**: Preparing the dataset for analysis and extracting audio signal features using **MFCC**.
+2. **Model Training**: Building and training a **CNN** on the dataset.
+3. **Prediction and Alert**: Using the trained model to classify audio files and generate an alert.
+
+
+## Features
+- Extraction of audio features using **Mel-Frequency Cepstral Coefficients (MFCC)**.
+- Construction and training of a **Convolutional Neural Network (CNN)** model for audio classification.
+- Real-time prediction and alert generation based on audio classifications.
 
 
 ## User Interface Examples
